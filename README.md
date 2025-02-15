@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **krismarvelticoalu/krismarvelticoalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Halo!!
+
+Nama saya **Krismarvel Ticoalu**.<br>
+
+Saya adalah mahasiswa jurusan informatika di Universitas Klabat!<br>
+
+Kunjungi profile [LinkedIn](https://www.linkedin.com/in/krismarvel-ticoalu-409aa4256) saya untuk mengenal saya lebih lanjut!
