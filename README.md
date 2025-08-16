@@ -1,8 +1,14 @@
+<h2 align="center">
+  Hi, I'm <strong>Krismarvel Bryl Yitro Ticoalu</strong>
+</h2>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=480&lines=Hi%2C+I'm+Avel+%F0%9F%91%8B;AI+%7C+ML+%7C+DL+Enthusiast;TensorFlow+Certified+%7C+Tech+Leader;Where+data%2C+code%2C+and+creativity+meet" alt="Typing SVG" />
+  <em>But you can call me Avel 👋</em>
 </p>
 
-<h2 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Avel</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=480&lines=AI+%7C+ML+%7C+DL+Enthusiast;DCML+Certified+%7C+Tech+Enthusiast;Where+data%2C+code%2C+and+creativity+meet" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -22,7 +28,7 @@ I'm an enthusiastic Informatics undergraduate with a strong focus on **AI**, **M
 - 🚀 Completed **Machine Learning Engineer track** at **Coding Camp 2025**, with Distinction  
 - 🧪 Recently earned **Developer Certification in Machine Learning with TensorFlow (DCML)**  
 - 💼 Interning at **MPMeta**, contributing across the stack (frontend ↔ backend)  
-- 🧑‍💼 Leading the **Web Development Division** @ UVICS and mentoring juniors on project development  
+- 🧑‍💼 Person-In-Charge of **Web Development Division** @ UVICS and mentoring juniors on project development  
 - 👨‍🏫 Taught Python to 30+ first-year students as a Programming Tutor  
 - 🌐 I enjoy turning complex ideas into clean code and impactful systems that scale
 
@@ -34,18 +40,6 @@ I'm an enthusiastic Informatics undergraduate with a strong focus on **AI**, **M
 - 🧠 Building and optimizing deep learning models using **TensorFlow 2.x**  
 - ⚙️ Strengthening backend/API systems and deployment workflows  
 - 🌱 Exploring modern stacks like **React Native**, **Next.js**, and **MLOps**
-
----
-
-## 🛠 Notable Experience
-
-- 👨‍🏫 Taught **Python programming** to 30+ students  
-- 🧑‍💼 Led both **Web Dev** and **Education/Event** divisions in UVICS  
-- 🛠 Team leader in university projects:
-  - 📚 Digital bookstore site for Front-End Web Dev
-  - 🔐 Password Manager in **C# + Visual Studio**
-  - 🏟️ Futsal Booking System in **Python (OOP)**
-  - 📡 Campus API system using **Node.js**
 
 ---
 
