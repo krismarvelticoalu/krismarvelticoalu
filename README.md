@@ -16,7 +16,7 @@
 🎖️ Graduate with **Distinction** — **Coding Camp 2025** by **DBS Foundation**  
 📜 **Dev Certified** for **Machine Learning with TensorFlow (DCML)**  
 💻 **Full-Stack Developer Intern** @ **MPMeta (by Manado Post)**  
-👨‍🏫 **Web Dev Division Lead** @ **UVICS (Unklab Virtue in Computer Science)**  
+👨‍🏫 **Web Dev Person-In-Charge** @ **UVICS (Unklab Virtue in Computer Science)**  
 🧠 Passionate about **Generative AI**, **Machine Learning**, **Data Science**, and **Software Engineering**
 
 ---
