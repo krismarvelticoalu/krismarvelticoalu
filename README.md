@@ -77,11 +77,6 @@ I'm an enthusiastic Informatics undergraduate with a strong focus on **AI**, **M
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krismarvelticoalu&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/krismarvelticoalu/krismarvelticoalu/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-
 ---
 
 ![DBS Coding Camp Graduate](https://img.shields.io/badge/DBS%20Foundation-Coding%20Camp%202025%20Distinction-red)
