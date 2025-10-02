@@ -12,7 +12,7 @@
 
 ---
 
-🎓 Informatics Undergraduate @ [Universitas Klabat](https://unklab.ac.id) — GPA 3.98 (Sem 1–5)  
+🎓 Informatics Undergraduate @ [Universitas Klabat](https://unklab.ac.id) — GPA 3.99 (Sem 1–6)  
 🎖️ Graduate with **Distinction** — **Coding Camp 2025** by **DBS Foundation**  
 📜 **Dev Certified** for **Machine Learning with TensorFlow (DCML)**  
 💻 **Full-Stack Developer Intern** @ **MPMeta (by Manado Post)**  
