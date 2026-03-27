@@ -12,11 +12,12 @@
 
 ---
 
-🎓 Informatics Undergraduate @ [Universitas Klabat](https://unklab.ac.id) — GPA 3.99 (Sem 1–7)  
+🎓 Informatics Undergraduate @ [Universitas Klabat](https://unklab.ac.id) — GPA 3.99 (Sem 1–7)
+⛰️ **Full-Stack Developer** and **Marketing Assistant** @ **Digital Creative Klabat (KlabatDev)**
+💻 **Former Full-Stack Developer Intern** @ **MPMeta (by Manado Post)**  
 🎖️ Graduate with **Distinction** — **Coding Camp 2025** by **DBS Foundation**  
 📜 **Dev Certified** for **Machine Learning with TensorFlow (DCML)**  
-💻 **Full-Stack Developer Intern** @ **MPMeta (by Manado Post)**  
-👨‍🏫 **Web Dev Person-In-Charge** @ **UVICS (Unklab Virtue in Computer Science)**  
+👨‍🏫 **Former Web Dev Person-In-Charge** @ **UVICS (Unklab Virtue in Computer Science)**  
 🧠 Passionate about **Generative AI**, **Machine Learning**, **Data Science**, and **Software Engineering**
 
 ---
@@ -26,9 +27,9 @@
 I'm an enthusiastic Informatics undergraduate with a strong focus on **AI**, **ML**, and **Data Science**.
 
 - 🚀 Completed **Machine Learning Engineer track** at **Coding Camp 2025**, with Distinction  
-- 🧪 Recently earned **Developer Certification in Machine Learning with TensorFlow (DCML)**  
-- 💼 Interning at **MPMeta**, contributing across the stack (frontend ↔ backend)  
-- 🧑‍💼 Person-In-Charge of **Web Development Division** @ UVICS and mentoring juniors on project development  
+- 🧪 Earned **Developer Certification in Machine Learning with TensorFlow (DCML)**  
+- 💼 Interned at **MPMeta**, contributed across the stack (frontend ↔ backend)  
+- 🧑‍💼 Former Person-In-Charge of **Web Development Division** @ UVICS and mentoring juniors on project development  
 - 👨‍🏫 Taught Python to 30+ first-year students as a Programming Tutor  
 - 🌐 I enjoy turning complex ideas into clean code and impactful systems that scale
 
