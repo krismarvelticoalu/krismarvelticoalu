@@ -12,8 +12,8 @@
 
 ---
 
-- 🎓 Informatics Undergraduate @ [Universitas Klabat](https://unklab.ac.id) — GPA 3.99 (Sem 1–7)
-- ⛰️ **Full-Stack Developer** and **Marketing Assistant** @ **Digital Creative Klabat (KlabatDev)**
+- 🎓 Informatics Undergraduate @ [Universitas Klabat](https://unklab.ac.id) — GPA 3.99
+- ⛰️ **Full-Stack Developer** @ **Digital Creative Klabat (KlabatDev)**
 - 💻 **Former Full-Stack Developer Intern** @ **MPMeta (by Manado Post)**  
 - 🎖️ Graduate with **Distinction** — **Coding Camp 2025** by **DBS Foundation**  
 - 📜 **Dev Certified** for **Machine Learning with TensorFlow (DCML)**  
